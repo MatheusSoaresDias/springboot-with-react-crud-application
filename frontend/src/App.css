@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+}
+
+.navbar {
+    height: 70px;
+}
+
+.navbar a {
+    text-decoration: none;
+    padding: 0 20px;
+    font-size: 1.4rem;
+    color: white;
+}
+
+.list {
+    margin-top: 20px;
+}
+
+.footer {
+    height: 70px;
+    position: absolute;
+    bottom: 0;
+    background-color: #1b1b1b;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
